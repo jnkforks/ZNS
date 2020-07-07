@@ -224,6 +224,7 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
+      <path value="A:/Git/ZNS" />
     </ignored-roots>
     <MESSAGE value="update 1" />
     <option name="LAST_COMMIT_MESSAGE" value="update 1" />
