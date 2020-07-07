@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="keyword" value="copyright" />
+    <option name="notice" value="Copyright (c) &amp;#36;today.year. All rights reserved by Darshan and all his affiliates.&#10;The program &quot;&amp;#36;file.className&quot; is a part of the project &quot;&amp;#36;project.name&quot; and is distributed along with the same.&#10;This code is provided to you under the terms of the accompanying license. &#10;You may use, distribute or modify the code under these terms by accompanying the original source copy and the copy of the license file.&#10;You should have the license file accompanying the original source code.&#10;&#10;IN NO EVENT SHALL REGENTS BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, &#10;INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF REGENTS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&#10;REGENTS SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. &#10;THE SOFTWARE AND ACCOMPANYING DOCUMENTATION, IF ANY, PROVIDED HEREUNDER IS PROVIDED &quot;AS IS&quot;. &#10;REGENTS HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.&#10;&#10;Code by Darshan.&#10;&#10;Last Modified - &amp;#36;file.lastModified" />
+    <option name="myName" value="Darshan-OpenSource" />
+  </copyright>
+</component>
